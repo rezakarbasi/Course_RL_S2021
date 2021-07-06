@@ -1,0 +1,1 @@
+here i review the basic concepts of python programming language.
